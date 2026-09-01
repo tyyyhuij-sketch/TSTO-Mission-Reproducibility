@@ -1,0 +1,30 @@
+Manuscript_location,Result_group,Metric,Value_or_lower,Upper,Unit,Statistic_or_scope,Note
+Table 4,Electric-pump demand,Rocket Mode 1 pump energy,2.8626,,GJ,mean across 18 mass-optimal DMR missions,
+Table 4,Electric-pump demand,Rocket Mode 1 pump energy,2.2381,3.7582,GJ,minimum-maximum,
+Table 4,Electric-pump demand,Rocket Mode 1 mean case-wise share,51.07,,%,mean case-wise share,
+Table 4,Electric-pump demand,Ramjet pump energy,0.1325,,GJ,mean across 18 mass-optimal DMR missions,
+Table 4,Electric-pump demand,Ramjet pump energy,0.118,0.1479,GJ,minimum-maximum,
+Table 4,Electric-pump demand,Ramjet mean case-wise share,2.41,,%,mean case-wise share,
+Table 4,Electric-pump demand,DMR-transition pump energy,0.061,,GJ,mean across 18 mass-optimal DMR missions,
+Table 4,Electric-pump demand,DMR-transition pump energy,0.037,0.0911,GJ,minimum-maximum,
+Table 4,Electric-pump demand,DMR-transition mean case-wise share,1.11,,%,mean case-wise share,
+Table 4,Electric-pump demand,Scramjet pump energy,0.0304,,GJ,mean across 18 mass-optimal DMR missions,
+Table 4,Electric-pump demand,Scramjet pump energy,0.0,0.0689,GJ,minimum-maximum,
+Table 4,Electric-pump demand,Scramjet mean case-wise share,0.54,,%,mean case-wise share,
+Table 4,Electric-pump demand,Rocket Mode 2 pump energy,2.4727,,GJ,mean across 18 mass-optimal DMR missions,
+Table 4,Electric-pump demand,Rocket Mode 2 pump energy,2.3979,2.567,GJ,minimum-maximum,
+Table 4,Electric-pump demand,Rocket Mode 2 mean case-wise share,44.87,,%,mean case-wise share,
+Table 4,Electric-pump demand,Total pump energy,5.5591,,GJ,mean across 18 mass-optimal DMR missions,
+Table 4,Electric-pump demand,Total pump energy,4.8323,6.581,GJ,minimum-maximum,
+Section 4.3 / Table 4,Electric-pump demand,Combined share of two rocket phases,95.94,,%,mean combined share,Rocket Mode 1 + Rocket Mode 2
+Section 4.4 / Fig. 6,Regenerative cooling,Minimum required coolant mass flow,0.675,1.004,kg/s,range across physically valid high-Mach reference states,
+Section 4.5 / Fig. 7,Waste-heat recovery,Combustor wall heat load,0.68,1.012,MW,range across four physically valid high-Mach states,Nominal thermal-electric conditions
+Section 4.5 / Fig. 7,Waste-heat recovery,Heat admitted to the sCO2-CBC,136.96,184.09,kW,range across four physically valid high-Mach states,Nominal thermal-electric conditions
+Section 4.5 / Fig. 7,Waste-heat recovery,Wall-heat recovery fraction,17.73,20.14,%,range across four physically valid high-Mach states,
+Section 4.5 / Fig. 7,Waste-heat recovery,Gross electric power,42.82,57.56,kW,range across four physically valid high-Mach states,
+Section 4.5 / Fig. 7,Waste-heat recovery,Nominal specific electricity generation,252.84,,kJ/kg-fuel,nominal cross-scale interface,Tsrc = 1050 K; heater effectiveness = 0.90
+Section 4.6 / Fig. 8,Mission-level electricity recovery,Generation-demand coverage ratio,78.97,111.0,%,range across 48 directly calculated DMR states,
+Section 4.6 / Fig. 8,Mission-level energy storage,Initial battery-mass reduction ratio,35.53,48.79,%,range across 48 directly calculated DMR states,
+Section 4.6 / Fig. 8,Mission-level energy storage,Initial battery-mass reduction ratio,42.13,,%,mean across 48 directly calculated DMR states,
+Section 4.6 / Fig. 8,Mission-level energy storage,Minimum initial battery mass without waste-heat recovery,4.261,5.803,t,range across investigated DMR states,
+Section 4.6 / Fig. 8,Mission-level energy storage,Minimum initial battery mass with waste-heat recovery,2.319,3.487,t,range across investigated DMR states,

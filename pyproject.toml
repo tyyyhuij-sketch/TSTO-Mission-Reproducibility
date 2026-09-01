@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clrs-tsto-reproducibility"
+version = "1.0.0"
+description = "Compact Python reproducibility implementation for the source-anchored electromagnetic-launch and mission-level TSTO model."
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.4,<3",
+    "pandas>=3.0,<4",
+    "scipy>=1.17,<2",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.setuptools.packages.find]
+include = ["clrs_tsto*"]
